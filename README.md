@@ -9,7 +9,7 @@
   <a href="[https://www.youtube.com/channel/UCr6HdsNDgddt6rDGDdNaIpA)]">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-    <a href="www.noelia-navarro.com">
+    <a href="(https://www.noelia-navarro.com")>
     <img src="https://img.shields.io/badge/Página Web-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Twitter Badge"/>
    <a 
   </a>
