@@ -61,12 +61,7 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Data An
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
-### :writing_hand: Publicaciones en mi blog :
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-   
 
  
