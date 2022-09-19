@@ -23,8 +23,10 @@
 </h1>
 
 ---
-  ### :woman_technologist: Sobre mí :
  <div id="header" align="left">
+
+### :woman_technologist: Sobre mí :
+
 
 Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
    
@@ -36,9 +38,11 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Data An
 
 * 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
    
-</div>
+
+
+---
    
-### 🚀 Habilidades :
+ ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
@@ -49,6 +53,20 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Data An
  <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
   
+</div>
+  
+ ### :fire: Mis estadísticas :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Publicaciones en mi blog :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
    
 
  
