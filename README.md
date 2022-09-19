@@ -1,4 +1,4 @@
-[<img src="https://github.com/noelianav91/noelianav91/blob/main/Hola.gif" alt="👋 Hola a todos! Mi nombre (Noelia Navarro)|www.noelia-navarro.com)" title="👋 Hola a todos! Mi nombre (Noelia Navarro)|www.noelia-navarro.com))"/>](www.noelia-navarro.com))
+[<img src="https://github.com/noelianav91/noelianav91/blob/main/Hola.gif" alt="👋 Hola a todos! Mi nombre es (Noelia Navarro)|www.noelia-navarro.com)" ]
 
 <!--
 **noelianav91/noelianav91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
